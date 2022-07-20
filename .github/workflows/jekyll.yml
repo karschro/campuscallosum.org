@@ -30,6 +30,5 @@ jobs:
         ftp_path: ${{ secrets.FTP_PATH }} 
       # mirror -R uploads files to the folder to the FTP server
       # timeout and max-tries set to make it stop when the upload doesn't work instead of retrying
-      # $ftp_path may not end with a "/". Otherwise the source folder is uploaded and not just its contents
       run: |
-        lftp sftp://$ftp_username:$ftp_password@$ftp_location  -e "set cmd:at-exit; set net:timeout 10; set net:max-retries 3; mirror --verbose --no-perms -R _prod_site/ $ftp_path; bye"
+        lftp ftp://$ftp_username:$ftp_password@$ftp_location  -e "set cmd:at-exit; set net:timeout 30; set net:max-retries 3; mirror --verbose --no-perms -R _prod_site //; bye"
