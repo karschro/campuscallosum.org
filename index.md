@@ -29,3 +29,5 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 
 ## Contact us
 [campuscallosum@gmail.com](mailto:campuscallosum@gmail.com)
+
+Find us on [Instagram](https://www.instagram.com/campus_callosum/)
