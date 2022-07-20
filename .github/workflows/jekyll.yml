@@ -14,7 +14,7 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --destination _prod_site/ --config _config.yml,_config_prod.yml"
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --destination _prod_site/ --config _config.yml"
     - name: Setup Environment.
       env:
         known_hosts: ${{ secrets.KNOWN_HOSTS }} 
