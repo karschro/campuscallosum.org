@@ -10,7 +10,7 @@ layout: page
 
 ![logo](logo.png)
 
-<p align="center"><b>Find us at 2:30 & A</b></p>
+<p align="center"><b>Find us at <a href="https://www.google.com/maps/d/viewer?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=19">2:30 & A</a></b></p>
 
 Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this year and looking to form new connections! Our camp has the goal of bringing more science to the playa. We're a bunch of scientists, geeks, and friends interested in sharing, learning, and discussing science with the BRC community. Our mission is to be a place for science enthusiasts to come and share their excitement, and where scientific perspectives can be added to a wide range of discussions and topics accessible to every burner.
 
@@ -26,6 +26,10 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 ![](photos/2.jpeg)
 ![](photos/3.jpeg)
 ![](photos/4.jpeg)
+
+## Find us
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=18" width="752" height="480"></iframe>
 
 ## Contact us
 Write us an email at [campuscallosum@gmail.com](mailto:campuscallosum@gmail.com)
