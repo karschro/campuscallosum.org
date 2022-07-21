@@ -33,4 +33,3 @@ Write us an email at [campuscallosum@gmail.com](mailto:campuscallosum@gmail.com)
 Look at us on [Instagram](https://www.instagram.com/campus_callosum/)
 
 Join us on [Facebook](https://www.facebook.com/groups/358258066489269/)
-
