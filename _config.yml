@@ -12,7 +12,7 @@ footer:
   custom: true
 
 # if above footer:custom is 'true', then this will be printed instead
-footer_custom: 'Theme adapted from Oinam. Email us at campuscallosum@gmail.com.'
+footer_custom: 'Theme adapted from Oinam. Find the source code for the website under https://github.com/felixbinder/campuscallosum.org. Email us at campuscallosum@gmail.com.'
 
 layout:
   theme: vintage # default, vintage, nord
