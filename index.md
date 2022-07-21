@@ -18,7 +18,7 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 
 | Date | Time | Event | Info |
 |------|------|-------|------|
-| 08/01 | 9:00am - 11:am | Welcome drinks | XXXXXXXXXXXXXXXXX |
+| 08/01 | 9:00am - 11:am | Welcome drinks | This is just a sample event 🍸 |
 
 ## Photos
 
