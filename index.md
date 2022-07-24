@@ -18,7 +18,11 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 
 | Date | Time | Event | Info |
 |------|------|-------|------|
-| 08/01 | 9:00am - 11:am | Welcome drinks | This is just a sample event 🍸 |
+| 08/30 | 5:00pm - 6:00pm | Ask a drunk scientist | Obtain answers to your most burning questions! Casual happy hour.|
+| 08/31 | 4:00pm - 5:00pm | The neuroscience of psychedelics | A talk by a neuroscience researcher|
+| 09/01 | 4:00pm - 5:00pm | Consciousness and the brain | A talk by a neuroscience researcher|
+| 09/01 | 5:00pm - 6:00pm | Ask a drunk scientist | Obtain answers to your most burning questions! Casual happy hour.|
+| 09/02 | 5:00pm - 6:00pm | Ask a drunk scientist | Obtain answers to your most burning questions! Casual happy hour.|
 
 ## Photos
 
